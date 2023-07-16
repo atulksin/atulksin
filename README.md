@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @atulksin
+- 👀 I’m interested in Python and C++.
+- 🌱 I’m currently learning Datastructures and Algorithms.
+- 💞️ I’m looking to collaborate on solving Datstructure and algorithm problems.
